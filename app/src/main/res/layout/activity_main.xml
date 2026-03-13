@@ -17,7 +17,7 @@
             android:id="@+id/ComotanPerros"
             android:layout_width="158dp"
             android:layout_height="34dp"
-            android:text="COMO SE LA PICAAAN" />
+            android:text="COMO SE LA PICAAAAAAAAN" />
     </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView

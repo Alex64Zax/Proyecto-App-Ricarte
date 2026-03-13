@@ -11,7 +11,14 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/freme_container"/>
+        android:id="@+id/freme_container">
+
+        <TextView
+            android:id="@+id/ComotanPerros"
+            android:layout_width="158dp"
+            android:layout_height="34dp"
+            android:text="COMO SE LA PICAAAN" />
+    </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"

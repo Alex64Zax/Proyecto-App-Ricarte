@@ -3,8 +3,6 @@ package com.example.ink_well
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
@@ -30,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
 
-                R.id.botton_cuenta -> {
+                R.id.btnAjustes -> {
                     replaseFrament(CuentaFragment())
                     true
                 }

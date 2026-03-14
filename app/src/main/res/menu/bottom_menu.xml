@@ -12,7 +12,7 @@
         android:icon="@drawable/outline_camping_24"/>
 
     <item
-        android:id="@+id/botton_cuenta"
+        android:id="@+id/btnAjustes"
         android:title="Cuenta"
         android:icon="@drawable/outline_account_circle_24"/>
 

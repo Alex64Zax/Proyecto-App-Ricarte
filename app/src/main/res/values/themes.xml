@@ -2,13 +2,13 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.InkWell" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/marron</item>
-        <item name="colorPrimaryVariant">@color/cafe</item>
-        <item name="android:statusBarColor">@color/crema</item>
+        <item name="colorPrimary">@color/cafe_oscuro</item>
+        <item name="colorPrimaryVariant">@color/cafe_medio</item>
+        <item name="android:statusBarColor">@color/cafe_claro</item>
     </style>
 
     <style name="Theme.InkWell" parent="Base.Theme.InkWell" />
     <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
-        <item name="android:color">@color/cafe</item>
+        <item name="android:color">@color/gris_claro</item>
     </style>
 </resources>

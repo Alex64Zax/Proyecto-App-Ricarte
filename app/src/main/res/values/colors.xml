@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="marron">#593028</color>
-    <color name="cafe">#ba9d79</color>
-    <color name="crema">#e3cdae</color>
-    <color name="gris">#d9d9d9</color>
+    <color name="negro">#FF000000</color>
+    <color name="blanco">#FFFFFFFF</color>
+
+    <color name="cafe_oscuro">#654a30</color>
+    <color name="cafe_medio">#9e8567</color>
+    <color name="cafe_claro">#d7b58c</color>
+
+    <color name="verde_oscuro">#497042</color>
+    <color name="verde_medio">#64a37a</color>
+    <color name="verde_claro">#8ac29b</color>
+
+    <color name="gris_oscuro">#bab79e</color>
+    <color name="gris_claro">#ebe5ce</color>
+
 
 </resources>

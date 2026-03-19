@@ -12,12 +12,15 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var bottomNavigationView: BottomNavigationView
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
         bottomNavigationView = findViewById(R.id.button_navigation)
+
+        bottomNavigationView.selectedItemId = R.id.botton_Inicio
 
         bottomNavigationView.setOnItemSelectedListener { menuItem ->
             when(menuItem.itemId){

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/crema"
+    android:background="@color/gris_claro"
     tools:context=".EstadisticasFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:text="Estadisticas_fragment"
         android:textSize="30sp"
-        android:textColor="@color/marron"
+        android:textColor="@color/cafe_oscuro"
         android:gravity="center"/>
 
 </FrameLayout>
